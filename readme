@@ -1,0 +1,19 @@
+merhabalar ben marcell.xd 17 yaşındayım 4 yıldır discorddayım ama 2 yıldır rizeli.dev ekbininde botlar yapıyorum.
+bu siteyi namımı geliştirmek adına yazdım. site çok basit bir şekilde işlenmiş bir site ne bir şey girceksiniz ne hata çözceksiniz.
+sadece terminalide "npm i" yazıp modülleri indirmeniz gerekiyor ve sonra "npm run dev" yazarsanız site "http://localhost:5174" açık olcaktır.
+eğer olmazsa terminalde yani cmd de gözükecektir. örnek olarak
+"Port 5173 is in use, trying another one...
+ VITE v5.4.14  ready in 314 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help"
+
+yukarda npm i yazcaksınız dedim ama nodenin son halini indirmeniz gerekiyor.
+
+yakında discrod açılacağı için çok büyük bir public botu ile geliyorum gerçekten görebilceğiniz en taşşaklı bot olacaktır 180+ komut v14 hatasız. 
+
+beni discord da her yerde bulursunuz zaten ama bu yaptığım sitelerin 10x katı profesyonel site yaptırmak veya bot yaptırmak isterseniz
+disocrd adresim - "https://discord.com/users/1150681244510728194"
+
+isterseniz bu dosyayı discordda orospu edin sorun değil.
